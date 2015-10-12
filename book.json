@@ -1,0 +1,13 @@
+{"title": "我的Linux C开发学习记录",
+    "version": "15.10.13,0006",
+    "description": "My Linux C programming coding note for myself.",
+    "author": "happylumia-support <jianghongxi001@gmail.com>",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "shortName": "happylumia"
+    }
+}
+
